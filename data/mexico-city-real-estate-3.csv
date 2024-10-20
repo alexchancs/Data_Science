@@ -1,0 +1,7 @@
+operation,property_type,place_with_parent_names,price,currency,price_aprox_local_currency,price_aprox_usd
+sell,apartment,|México|Distrito Federal|Álvaro Obregón|,35000000.0,MXN,35634500.02,1894595.53
+sell,apartment,|México|Distrito Federal|Benito Juárez|,2000000.0,MXN,2036257.11,108262.6
+sell,apartment,|México|Distrito Federal|Cuauhtémoc|,2700000.0,MXN,2748947.1,146154.51
+sell,apartment,|México|Distrito Federal|Cuauhtémoc|,347000.0,MXN,6462061.92,343571.36
+sell,apartment,|México|Distrito Federal|Álvaro Obregón|,6870000.0,MXN,6994543.16,371882.03
+sell,apartment,|México|Distrito Federal|Álvaro Obregón|,6500000.0,MXN,6617835.61,351853.45
